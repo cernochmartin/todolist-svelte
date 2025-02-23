@@ -1,5 +1,5 @@
 <script lang="ts">
-    import type { Task } from "../lib/api";
+    import type { Task } from "../api";
     export let task: Task;
 </script>
 

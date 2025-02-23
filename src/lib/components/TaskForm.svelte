@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { addTask } from "../lib/api";
+    import { addTask } from "../api";
     let title = "";
     let description = "";
 

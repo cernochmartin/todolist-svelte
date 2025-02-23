@@ -1,7 +1,7 @@
 <script lang="ts">
-    import TaskList from "$lib/components/TaskList.svelte";
-    import TaskForm from "$lib/components/TaskForm.svelte";
-    import KanbanBoard from "$lib/components/KanbanBoard.svelte";
+    import TaskList from "../lib/components/TaskList.svelte";
+    import TaskForm from "../lib/components/TaskForm.svelte";
+    import KanbanBoard from "../lib/components/KanbanBoard.svelte";
 </script>
 
 <div class="max-w-3xl mx-auto p-6 space-y-6">

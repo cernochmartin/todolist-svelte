@@ -1,6 +1,6 @@
 <script lang="ts">
     import TaskItem from "./TaskItem.svelte";
-    import { tasks } from "../lib/api";
+    import { tasks } from "../api";
 </script>
 
 <div class="space-y-4">

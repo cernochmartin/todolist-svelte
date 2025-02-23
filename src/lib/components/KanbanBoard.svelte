@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { tasks } from "../lib/api";
+    import { tasks } from "../api";
     import TaskItem from "./TaskItem.svelte";
 </script>
 
